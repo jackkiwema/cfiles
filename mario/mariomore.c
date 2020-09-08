@@ -7,7 +7,7 @@ int main(void)
     do
     {
         //Prompt user for Height
-        n = get_int("Sweets: ");
+        n = get_int("Height: ");
     }
     //Input between 1 - 100
     while (n < 1 || n > 100);
